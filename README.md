@@ -1,4 +1,4 @@
-# Multi-Agent After-Sale v2
+# Multi-Agent After-Sale-Platform
 
 一个面向智能售后场景的多 Agent 应用，基于 `FastAPI + Vue3 + LangChain + MySQL + Chroma` 构建，围绕技术问答、服务站查询、地图导航、知识库增强回答和会话级记忆展开。
 
